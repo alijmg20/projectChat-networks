@@ -7,7 +7,7 @@
 $server = 'bfpseav2bexfmn52r38v-mysql.services.clever-cloud.com';
 $database = 'bfpseav2bexfmn52r38v';
 $user = 'uphzzjergkscagjw';
-$password = 'uphzzjergkscagjw';
+$password = 'uclxfb8YJvlTnmPA1Jg5';
 
 
 $connection = new mysqli($server,$user,$password,$database);
